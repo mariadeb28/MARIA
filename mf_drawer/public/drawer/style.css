@@ -1,0 +1,38 @@
+*{
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#sidebar{
+    background-color: rgba(100, 148, 237, 0.266);
+    padding: 50px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    margin: 0 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+nav li a:hover{
+    opacity: 0.8;
+
+}
+
+
+

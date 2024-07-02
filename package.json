@@ -1,0 +1,28 @@
+{
+  "name": "teste-icasei",
+  "version": "1.0.0",
+  "description": "Aplicações micro-frontend de Drawer e Vídeos utilizando API do YouTube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Maria Déborah",
+    "email": "mariadeborah212@gmail.com",
+    "url": "https://github.com/mariadeb28"
+  },
+  "gitrepository": "https://github.com/mariadeb28/Teste-Icasei.git",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "node-fetch": "^2.7.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "ts-node-dev": "^2.0.0"
+  }
+}
