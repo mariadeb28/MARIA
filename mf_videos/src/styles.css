@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#search-input {
+    width: 80%;
+    padding: 10px;
+}
+
+#search-button {
+    padding: 10px;
+    margin-left: 10px;
+}
+
+#videos {
+    margin-top: 20px;
+}
